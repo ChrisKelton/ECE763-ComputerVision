@@ -1,2 +1,5 @@
 **/.idea
 **/.vscode
+**/data
+**/save_models
+**/checkpoints
